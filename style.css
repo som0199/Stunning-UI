@@ -93,7 +93,7 @@
 #logo{
     width: 80%;
     height: auto;
-    margin-top: 200px;
+    margin-top: 180px;
 }
 .container-1-left span{
     width: 85%;
@@ -138,8 +138,8 @@
 }
 .container-1-left p{
     font-size: 18px;
-    line-height: 26px;
-    padding-bottom: 25px;
+    line-height: 24px;
+    padding-bottom: 23px;
 }
 .container-1-right{
     width: 55%;
